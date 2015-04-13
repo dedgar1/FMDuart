@@ -1,0 +1,7 @@
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\classes\debug
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e36f413a432fb00755d0af6f6d23fb2f7e6916fd.jar
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-a35ad73545b540eaff661c46ec3a4153e2072adb.jar
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-cddd1a1774339a9ea18174307e9593715cbeb88c.jar
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-d35b85c81a6fa0dac7a95f137ecaba91f6f00b16.jar
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-0ae4fcd3591211d6bab44a5d62fff7a10c2accbe.jar
+C:\Users\Edgar\Dropbox\AndroidStudioProjects\CapstoneFinal\Bluetooth\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-6a5e9a4b485d6b7fe0558c7ccc758d7c2143c335.jar
